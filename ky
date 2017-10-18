@@ -1,0 +1,8 @@
+#include<iostream>
+
+using namesspace std;
+int main()
+{
+cout<<"Hi what's up";
+return 0;
+}
